@@ -22,6 +22,8 @@ Ideally, this should take around a day to finish, but let us know how much time 
     * Pick any UI toolkit (Bootstrap, Material, etc.), but try to make everything look consistent.
  * Even though we're only asking you to build a few different possible draggable components, how can we structure it so that it's easy to add a new component?
  * Feel free to put whatever data in the table your want. It's just a placeholder. In the real retool, the data is based on dynamic queries.
+ * You can check out Retool at https://login.tryretool.com/auth/signup to see how Retool's drag and drop works. Here's a screenshot of some tables and inputs in Retool for reference.
+ ![retool-screenshot](https://i.imgur.com/ndTbBqR.png)
 
 ## Getting started
 
