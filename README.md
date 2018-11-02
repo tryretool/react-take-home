@@ -3,7 +3,7 @@
 This is a frontend exercise that will give you the chance to see what kind of things we build at Retool!
 
 We'd like to build a mini-version of Retool - (mostly on the drag and drop side of Retool).
-  * We should have a list of possible components that can be created (buttons, inputs, dropdowns, and radio buttons)
+  * We should have a list of possible components that can be created (buttons, inputs, dropdowns, and tables)
   * The components can be rearranged via drag and drop (resizing not needed!)
   * The positions of the components should be remembered across page refreshes. (what's the easiest way to store data on a browser?)
   
@@ -19,7 +19,9 @@ Ideally, this should take around a day to finish, but let us know how much time 
  * Ideally, you'll use something like `redux` to store the positions of the components, but the exact implementation is up to you!
  * It doesn't have to look pixel perfect with amazing animations, but we do care a lot about UX and usability at Retool.
     * Paying attention to details like padding, alignment, and cursors are appreciated!
+    * Pick any UI toolkit (Bootstrap, Material, etc.), but try to make everything look consistent.
  * Even though we're only asking you to build a few different possible draggable components, how can we structure it so that it's easy to add a new component?
+ * Feel free to put whatever data in the table your want. It's just a placeholder. In the real retool, the data is based on dynamic queries.
 
 ## Getting started
 
