@@ -6,10 +6,14 @@ We'd like to build a mini-version of Retool - (mostly on the drag and drop side 
   * We should have a list of possible components that can be created (buttons, inputs, dropdowns, and radio buttons)
   * The components can be rearranged via drag and drop (resizing not needed!)
   * The positions of the components should be remembered across page refreshes. (what's the easiest way to store data on a browser?)
+  
+We have a basic starter app is also provided under the `./app` directory so you don't have to start from scratch. It'll look something like this to start off with:
+
+![starter-screenshot](https://i.imgur.com/qeOjbvc.png)
+
 
 ## Hints / Tips
 
- * A basic starter app is also provided under the `./app` directory so you don't have to start from scratch.
  * You can use any drag and drop library you want, but we think the `react-draggable` is the easiest library to use.
  * Ideally, you'll use something like `redux` to store the positions of the components, but the exact implementation is up to you!
  * It doesn't have to look pixel perfect with amazing animations, but we do care a lot about UX and usability at Retool.
