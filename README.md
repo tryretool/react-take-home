@@ -11,6 +11,7 @@ We have a basic starter app is also provided under the `./app` directory so you 
 
 ![starter-screenshot](https://i.imgur.com/qeOjbvc.png)
 
+Ideally, this should take around a day to finish, but let us know how much time you spent so we can calibrate our expectations!
 
 ## Hints / Tips
 
