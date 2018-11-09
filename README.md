@@ -4,7 +4,7 @@ This is a frontend exercise that will give you the chance to see what kind of th
 
 We'd like to build a mini-version of Retool - (mostly on the drag and drop side of Retool).
 
-- We should have a list of buttons that create components (buttons, inputs, dropdowns, and tables)
+- We should have a list of buttons that create components (buttons, inputs, dropdowns, and tables). This is already done for you in the starter application.
 - When a user clicks one of the buttons, a component should appear somewhere on the canvas.
 - The user should be able to drag components around the canvas. (In the real Retool, other components will move out of the way to make room for the component, but you don't need to do this for your version.)
 - The positions of the components should be remembered across page refreshes. (what's the easiest way to store data on a browser?)
