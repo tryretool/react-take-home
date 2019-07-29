@@ -8,7 +8,7 @@ We'd like to build a mini-version of Retool - (mostly on the drag and drop side 
 - When a user clicks one of the buttons, a component should appear somewhere on the canvas.
 - The user should be able to drag components around the canvas. (In the real Retool, other components will move out of the way to make room for the component, but you don't need to do this for your version.)
 - The canvas should have a fixed grid (e.g. 25x25 pixels per tile), and components should snap on to the these grid locations on the canvas (In Retool, our grid is 12 columns and dynamically sized, but you don't need to do this for your version.)
-  - adding a grid visual guide is a plus! (In Retool, we display the grid thru pukka dots while the user is dragging)
+  - adding a grid visual guide is a plus! (In Retool, we display the grid thru polka dots while the user is dragging)
 - The positions of the components should be remembered across page refreshes. (what's the easiest way to store data on a browser?)
 
 We have a basic starter app is also provided under the `./app` directory so you don't have to start from scratch. It'll look something like this to start off with:
